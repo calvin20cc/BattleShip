@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130901-r5756">
+  <project autorefresh="false" main="JBattleship" manifest="" root="" work="">
+    <createjar file="battleship.jar" flags="12"/>
+    <source>
+      <file active="true" name="BattleshipAnim.java" package="" timestamp="22-Jan-2014 14:29:06">
+        <select from="6318" to="6318"/>
+        <scroll column="3398" row="0"/>
+      </file>
+      <file name="JBattleship.java" package="" timestamp="21-Jan-2014 22:37:38">
+        <select from="6318" to="6318"/>
+        <scroll column="3398" row="0"/>
+      </file>
+      <file name="SuperSocketMaster.java" package="" timestamp="20-Jan-2014 19:51:20">
+        <select from="6318" to="6318"/>
+        <scroll column="3398" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
